@@ -1,7 +1,9 @@
 # import-dxf
 
+
 __import-dxf__ v1.6 was made to handle simple DXF file importing to EAGLE. It can currently only handle flat paths well.
 Polygon output and layer selection has been added, as a merger between import-dxf v.4 and dxf-import v1.5.
+v1.7 Addes function to import Circles as Drillholes
 
 ## Instructions
 
